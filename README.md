@@ -2,13 +2,16 @@
 
 A new Flutter project.
 
+![Animasyon efekti mevcuttur.]
+![scshot](https://github.com/innDeveloper/FlutterLoginScreen/assets/44702401/06acc719-b495-424e-8dca-71686215a2f7)
+
 ## Getting Started
 
-![Animasyon efekti mevcuttur.](assets/scshot.png)
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project:![Uploading scshot.png…]()
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
